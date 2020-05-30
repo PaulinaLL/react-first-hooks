@@ -17,6 +17,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>My contacts</h1>
       <SearchBar inputValue={inputValue} setInputValue={changeHandler} />
       <ContactList data={filteredContacts} />
     </div>
