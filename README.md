@@ -1,3 +1,10 @@
+## My contact list 
+
+- 3 components: Contact, ContactList and SearchBar
+- Show / hide contact details when hovering (without using hover CSS - hooks instead)
+- includes filtering by name functionality 
+- random contact data source: [randomuser.me](https://randomuser.me/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
