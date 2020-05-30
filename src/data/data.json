@@ -1,0 +1,90 @@
+[
+  {
+    "first": "Jarred",
+    "last": "Fahey",
+    "email": "skybluegiraffe73@gmail.com",
+    "address": "59096 Kub Manors",
+    "created": "July 30, 2016",
+    "balance": "$2,733.82"
+  },
+  {
+    "first": "Una",
+    "last": "Effertz",
+    "email": "Una.Effertz@diamond.biz",
+    "address": "83145 Quigley Station",
+    "created": "August 11, 2013",
+    "balance": "$2,504.55"
+  },
+  {
+    "first": "Connor",
+    "last": "Murazik",
+    "email": "plumgiraffe11@gmail.com",
+    "address": "75551 Yost Keys",
+    "created": "November 15, 2017",
+    "balance": "$5,530.40"
+  },
+  {
+    "first": "Zander",
+    "last": "Mitchell",
+    "email": "Zander.Mitchell@wilmer.name",
+    "address": "62656 Edmond Loaf",
+    "created": "June 6, 2018",
+    "balance": "$4,647.09"
+  },
+  {
+    "first": "Jannie",
+    "last": "Lindgren",
+    "email": "Jannie.Lindgren@sydni.name",
+    "address": "654 Baumbach Parkways",
+    "created": "October 16, 2017",
+    "balance": "$324.27"
+  },
+  {
+    "first": "Abdullah",
+    "last": "Langworth",
+    "email": "mintgreengiraffe75@gmail.com",
+    "address": "3215 Runte Walk",
+    "created": "December 17, 2019",
+    "balance": "$6,426.49"
+  },
+  {
+    "first": "Alek",
+    "last": "Flatley",
+    "email": "violetsquirrel74@gmail.com",
+    "address": "9730 Fernando Extensions",
+    "created": "February 15, 2020",
+    "balance": "$4,089.94"
+  },
+  {
+    "first": "Clarabelle",
+    "last": "DuBuque",
+    "email": "Clarabelle.DuBuque@afton.name",
+    "address": "463 Barrows Harbors",
+    "created": "July 16, 2013",
+    "balance": "$2,646.77"
+  },
+  {
+    "first": "Newell",
+    "last": "Toy",
+    "email": "cyanrabbit52@gmail.com",
+    "address": "25808 Kohler Plains",
+    "created": "September 4, 2017",
+    "balance": "$3,584.76"
+  },
+  {
+    "first": "Magdalen",
+    "last": "Collier",
+    "email": "greenrabbit94@gmail.com",
+    "address": "836 Mayer Glen",
+    "created": "October 19, 2015",
+    "balance": "$9,396.77"
+  },
+  {
+    "first": "Florencio",
+    "last": "Ondricka",
+    "email": "Florencio.Ondricka@chet.info",
+    "address": "81520 Nolan Track",
+    "created": "February 23, 2011",
+    "balance": "$1,410.94"
+  }
+]
